@@ -1,0 +1,59 @@
+{
+    "name":"Jayden's Altstore Repo",
+    "identifier": "com.jayden.source",
+    "subtitle": "Providing you the most up-to-date IPAs",
+    "description": "My Collection of IPAs",
+    "iconURL": "https://avatars.githubusercontent.com/u/255100472?v=4", 
+    "apps": [
+        {
+            "name": "YTLitePlusEXTRA",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Tonwalter888",
+            "subtitle": "A flexible enhancer for YouTube on iOS",
+            "version": "21.09.3",
+            "versionDate": "2026-03-06",
+            "versionDescription": " - Updated to YT 21.09.3 \n - Tweak is 5.2b4 \n - Playback issue fix in YTUHD settings",
+            "downloadURL": "https://github.com/jaydenjcpy/YTLitePlusEXTRA/releases/download/ytliteplusextra-ipa2/YTLitePlusEXTRA_21.09.3_v5.2b4.ipa",
+            "localizedDescription": "Watch YT without interruptions and more",
+            "iconURL": "https://ytliteplus.github.io/Logo.png",
+            "tintColor": "e22a41",
+            "size": 118800000,
+            "screenshotURLs": [
+                "https://github.com/dayanch96/YTLite/blob/main/Resources/scr1.jpg",
+                "https://github.com/dayanch96/YTLite/raw/main/Resources/scr2.jpg",
+                "https://github.com/dayanch96/YTLite/raw/main/Resources/scr3.jpg"
+            ],
+             "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
+                }
+            }
+        },
+        {
+            "name": "Spotc++",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "SpotCompiled",
+            "downloadURL": "https://files.catbox.moe/ck4dqm.ipa",
+            "iconURL": "https://avatars.githubusercontent.com/u/117838218?s=200&v=4",
+            "localizedDescription": "Old Spotify version but stable and usable",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%201.png",
+                "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%202.png"
+            ],
+            "size": 83400000,
+            "subtitle": "Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.",
+            "tintColor": "1DB954",
+            "version": "9.0.98",
+            "versionDate": "2025-11-21",
+            "versionDescription": "Spotify Version: v9.0.98, EeveeSpotify Version: Swift 6.2.2, Sposify v8.5.52, OpenSpotifySafariExtension Commit: edd4cbd, Sposify Fix v0.0.6, Orion Runtime (iOS 14 - 16) Version: 1.0.2, SwiftProtobuf Framework Version: 1.29.0, SpotC++ Version: v2.6.3, AltStore SpotC++ Version: v2.6.3"
+        }
+    ],
+    "userInfo": {
+    }
+}
+
+
+
