@@ -49,7 +49,7 @@
             "tintColor": "1DB954",
             "version": "9.0.98",
             "versionDate": "2025-11-21",
-            "versionDescription": "9.0.98 is old but stable"
+            "versionDescription": "This version is the most stable and with the most tweaks"
         },
         {
             "beta": false,
@@ -87,6 +87,47 @@
             "version": "2026.09.1",
             "versionDate": "2026-03-05",
             "versionDescription": "Bug Fixes and changes to improve your overall experience"
+        },
+       {
+            "beta": false,
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "developerName": "ahmadmokaddam",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261704/war.ipa",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Kcp66SU64bRGZxhAQFdq0KvS77VjdWKkEw&s",
+            "localizedDescription": "WhatsApp 26.8.76 injected with Raveal, Note: App may crash on first launch, Downloading stories will not work",
+            "name": "WhatsApp Raveal",
+            "screenshotURLs": [
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261704/IMG_1087.jpeg",
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261704/IMG_1088.jpeg",
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261704/IMG_1089.jpeg"
+            ],
+            "size": 119000000,
+            "subtitle": "WhatsApp injected with tweaks",
+            "tintColor": "25D366",
+            "version": "26.8.76",
+            "versionDate": "2026-03-06",
+            "versionDescription": "Sticker suggestions now appear when you type an emoji, making it easy to find and share the perfect sticker"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "net.whatsapp.WhatsAppBusiness",
+            "developerName": "Ahmad Mokadam",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261704/warb.ipa",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/WhatsApp_Business_icon.png",
+            "localizedDescription": "WhatsApp 26.8.76 injected with Raveal, Note: App may crash on first launch, Downloading stories will not work",
+            "name": "WhatsApp Business+Whatsapp Raveal",
+            "screenshotURLs": [
+                
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261704/IMG_1087.jpeg",
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261704/IMG_1088.jpeg",
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261704/IMG_1089.jpeg"  
+            ],
+            "size": 118000000,
+            "subtitle": "WhatsApp Business with tweaks",
+            "tintColor": "25D366",
+            "version": "26.8.76",
+            "versionDate": "2026-03-06",
+            "versionDescription": "Fix Bugs, optimize performance and improve experience"
         }
     ],
     "userInfo": {
