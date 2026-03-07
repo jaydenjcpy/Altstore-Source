@@ -50,11 +50,32 @@
             "version": "9.0.98",
             "versionDate": "2025-11-21",
             "versionDescription": "9.0.98 is old but stable"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "SoCuul",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261130/26371130.ipa",
+            "iconURL": "https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png",
+            "localizedDescription": "To open tweak settings, long press the more button (the one that takes you to settings and activity on the top right corner in your profile page",
+            "name": "SCInsta",
+            "screenshotURLs": [
+                "https://camo.githubusercontent.com/4c3bd6a573ea5212bc69b092f58c9faaed79502e9ba9fe361f632dc3d7b42c84/68747470733a2f2f692e696d6775722e636f6d2f637449694c37692e706e67"
+            ],
+            "size": 271000000 ,
+            "subtitle": "A feature-rich tweak for Instagram on iOS!",
+            "tintColor": "E1306C",
+            "version": "419.0.0",
+            "versionDate": "2026-03-03",
+            "versionDescription": "Contains bug fixes and performance improvements"
         }
     ],
     "userInfo": {
     }
 }
+
+
+
 
 
 
