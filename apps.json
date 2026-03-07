@@ -143,11 +143,33 @@
             "version": "419.0.0",
             "versionDate": "2026-03-03",
             "versionDescription": "Updated to v419.0.0"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.chengzu.book",
+            "developerName": "HD Flix",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261922/20261922.ipa",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyxeboftz-wZYEG9J6M3Tn2zBAD5cUnjqG98hRP3dVe6x_xVYV2rNzQ8&s=10",
+            "localizedDescription": "HD FLIX with a fantastic UI & seamless UX — designed to bring you the ultimate movie-watching experience like never before",
+            "name": "HDFlix",
+            "screenshotURLs": [
+                "https://flekstore.com/img-storage/apps/1386/Netflix1.jpeg",
+                "https://flekstore.com/img-storage/apps/1386/Netflix2.jpeg",
+                "https://flekstore.com/img-storage/apps/1386/Netflix3.jpeg",
+                "https://flekstore.com/img-storage/apps/1386/Netflix4.jpeg"
+            ],
+            "size": 32500000 ,
+            "subtitle": "Watch shows and movies for free!",
+            "tintColor": "E50914",
+            "version": "3.0",
+            "versionDate": "2025-09-12",
+            "versionDescription": "Use VPN if app not loading, some media might show only sound and a black screen"
         }
     ],
     "userInfo": {
     }
 }
+
 
 
 
