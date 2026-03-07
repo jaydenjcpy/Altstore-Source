@@ -1,8 +1,8 @@
 {
     "name":"Jayden's Repo",
     "identifier": "com.jayden.source",
-    "subtitle": "Providing you the most up-to-date IPAs",
-    "description": "My Collection of IPAs",
+    "subtitle": "A collection of my IPAs",
+    "description": "All my ipa files can be found here \n My Github: https://github.com/jaydenjcpy \n My Telegram Channel: https://t.me/compiledipas",
     "iconURL": "https://avatars.githubusercontent.com/u/255100472?v=4", 
     "sourceURL": "https://github.com/jaydenjcpy/Altstore-Repo/raw/refs/heads/main/apps.json",
     "apps": [
@@ -148,6 +148,9 @@
     "userInfo": {
     }
 }
+
+
+
 
 
 
