@@ -128,11 +128,28 @@
             "version": "26.8.76",
             "versionDate": "2026-03-06",
             "versionDescription": "Fix Bugs, optimize performance and improve experience"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.instagram.threads",
+            "developerName": "Chocolate Fluffy",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261739/ThS.ipa",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdI_fwObzik_aoEpMpi4zjj69_F2gM4k7tpw&s",
+            "localizedDescription": "Adblocker and media downloader",
+            "name": "ThreadSaver",
+            "size": 83300000,
+            "subtitle": "Threads with tweaks",
+            "tintColor": "000000",
+            "version": "419.0.0",
+            "versionDate": "2026-03-03",
+            "versionDescription": "Updated to v419.0.0"
         }
     ],
     "userInfo": {
     }
 }
+
+
 
 
 
