@@ -39,7 +39,7 @@
             "developerName": "SpotCompiled",
             "downloadURL": "https://files.catbox.moe/ck4dqm.ipa",
             "iconURL": "https://avatars.githubusercontent.com/u/117838218?s=200&v=4",
-            "localizedDescription": "Old Spotify version but stable and usable",
+            "localizedDescription": "Spotify Version: v9.0.98, EeveeSpotify Version: Swift 6.2.2, Sposify v8.5.52, OpenSpotifySafariExtension Commit: edd4cbd, Sposify Fix v0.0.6, Orion Runtime (iOS 14 - 16) Version: 1.0.2, SwiftProtobuf Framework Version: 1.29.0, SpotC++ Version: v2.6.3, AltStore SpotC++ Version: v2.6.3",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%201.png",
                 "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%202.png"
@@ -49,15 +49,12 @@
             "tintColor": "1DB954",
             "version": "9.0.98",
             "versionDate": "2025-11-21",
-            "versionDescription": "Spotify Version: v9.0.98, EeveeSpotify Version: Swift 6.2.2, Sposify v8.5.52, OpenSpotifySafariExtension Commit: edd4cbd, Sposify Fix v0.0.6, Orion Runtime (iOS 14 - 16) Version: 1.0.2, SwiftProtobuf Framework Version: 1.29.0, SpotC++ Version: v2.6.3, AltStore SpotC++ Version: v2.6.3"
+            "versionDescription": "9.0.98 is old but stable"
         }
     ],
     "userInfo": {
     }
 }
-
-
-
 
 
 
