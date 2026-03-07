@@ -145,7 +145,7 @@
             "versionDescription": "Updated to v419.0.0"
         },
         {
-            "beta": true,
+            "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "unknown",
             "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261852/20261852BIG.ipa",
