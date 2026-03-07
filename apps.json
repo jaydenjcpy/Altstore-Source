@@ -143,12 +143,26 @@
             "version": "419.0.0",
             "versionDate": "2026-03-03",
             "versionDescription": "Updated to v419.0.0"
+        },
+        {
+            "beta": true,
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "unknown",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261852/20261852BIG.ipa",
+            "iconURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261852/IMG_1090.jpeg",
+            "localizedDescription": "Lightweight Instagram tweak for iOS",
+            "name": "Beegram",
+            "size": 205000000,
+            "subtitle": "Lightweight IG tweak",
+            "tintColor": "E1306C",
+            "version": "419.0.0",
+            "versionDate": "2026-03-03",
+            "versionDescription": "Performance optimizations and stability improvements for a smoother, more reliable experience"
         }
     ],
     "userInfo": {
     }
 }
-
 
 
 
