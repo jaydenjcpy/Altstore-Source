@@ -13,9 +13,9 @@
             "subtitle": "A flexible enhancer for YouTube on iOS",
             "version": "21.09.3",
             "versionDate": "2026-03-06",
-            "versionDescription": " - Updated to YT 21.09.3 \n - Tweak is 5.2b4 \n - Playback issue fix in YTUHD settings",
+            "versionDescription": "Watch YT without interruptions and more",
             "downloadURL": "https://github.com/jaydenjcpy/YTLitePlusEXTRA/releases/download/ytliteplusextra-ipa2/YTLitePlusEXTRA_21.09.3_v5.2b4.ipa",
-            "localizedDescription": "Watch YT without interruptions and more",
+            "localizedDescription": "- Updated to YT 21.09.3 \n - Tweak is 5.2b4 \n - Playback issue fix in YTUHD settings",
             "iconURL": "https://ytliteplus.github.io/Logo.png",
             "tintColor": "e22a41",
             "size": 118800000,
@@ -55,6 +55,8 @@
     "userInfo": {
     }
 }
+
+
 
 
 
