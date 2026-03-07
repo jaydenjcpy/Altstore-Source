@@ -4,6 +4,7 @@
     "subtitle": "Providing you the most up-to-date IPAs",
     "description": "My Collection of IPAs",
     "iconURL": "https://avatars.githubusercontent.com/u/255100472?v=4", 
+    "sourceURL": "https://github.com/jaydenjcpy/Altstore-Repo/raw/refs/heads/main/apps.json",
     "apps": [
         {
             "name": "YTLitePlusEXTRA",
@@ -54,6 +55,9 @@
     "userInfo": {
     }
 }
+
+
+
 
 
 
