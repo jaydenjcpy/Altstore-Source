@@ -19,8 +19,7 @@
             "iconURL": "https://ytliteplus.github.io/Logo.png",
             "tintColor": "e22a41",
             "size": 118800000,
-            "screenshotURLs": [
-                "https://github.com/dayanch96/YTLite/blob/main/Resources/scr1.jpg",
+            "screenshotURLs": [ 
                 "https://github.com/dayanch96/YTLite/raw/main/Resources/scr2.jpg",
                 "https://github.com/dayanch96/YTLite/raw/main/Resources/scr3.jpg"
             ],
@@ -169,7 +168,6 @@
     "userInfo": {
     }
 }
-
 
 
 
