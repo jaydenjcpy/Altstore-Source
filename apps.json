@@ -68,6 +68,25 @@
             "version": "419.0.0",
             "versionDate": "2026-03-03",
             "versionDescription": "Contains bug fixes and performance improvements"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.reddit.Reddit",
+            "developerName": "Moe's App Hub",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261625/20261625MR091.ipa",
+            "iconURL": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-social-news-aggregation-web-content-rating-and-discussion-website-logo-shadow-tal-revivo.jpg",
+            "localizedDescription": "Reddit updated to 2026.09.1 with Moe's Reddit, plus a few extra tweaks",
+            "name": "Moe's Reddit",
+            "screenshotURLs": [
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261625/IMG_2188.png",
+                "https://github.com/jaydenjcpy/2026src/releases/download/20261625/IMG_2189.png"
+            ],
+            "size": 158000000,
+            "subtitle": "A better RedditFilter like mod made by Moe ",
+            "tintColor": "FF4500",
+            "version": "2026.09.1",
+            "versionDate": "2026-03-05",
+            "versionDescription": "Bug Fixes and changes to improve your overall experience"
         }
     ],
     "userInfo": {
