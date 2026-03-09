@@ -12,7 +12,7 @@
             "developerName": "Tonwalter888",
             "subtitle": "A flexible enhancer for YouTube on iOS",
             "version": "21.10.2",
-            "versionDate": "2026-03-09",
+            "versionDate": "2026-03-06",
             "versionDescription": "Watch YT without interruptions and more",
             "downloadURL": "https://github.com/jaydenjcpy/YTLitePlusEXTRA/releases/download/ytliteplusextra-ipa3/YTLitePlusEXTRA_21.10.2_v5.2b4.ipa",
             "localizedDescription": "- Updated to YT 21.10.2 \n - Tweak is 5.2b4 \n - Playback issue fix in YTUHD settings",
@@ -163,26 +163,26 @@
             "version": "3.0",
             "versionDate": "2025-09-12",
             "versionDescription": "Use VPN if app not loading, some media might show only sound and a black screen"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Moe's App Hub",
-            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/202603102008YTLRDC/2008.ipa",
-            "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.50.9_LRD1.12_Cracked_1767418254.webp?v=1773019598.0",
-            "localizedDescription": "YTLRD offers basically the features of uYou+, Like downloads that stays in the app and not the camera roll, but for the modern YT app, and thanks to Moe, you don't need to pay a penny for this awesome tweak",
-            "name": "YouTubeLRD cracked",
-            "size": 127000000,
-            "subtitle": "YouTubeLRD Cracked",
-            "tintColor": "e22a41",
-            "version": "21.10.2",
-            "versionDate": "2026-03-09",
-            "versionDescription": "Updated to latest version of YT, with YouTubeLRD cracked v1.13"
         }
     ],
     "userInfo": {
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
