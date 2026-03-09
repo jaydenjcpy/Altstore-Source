@@ -164,24 +164,6 @@
             "versionDate": "2025-09-12",
             "versionDescription": "Use VPN if app not loading, some media might show only sound and a black screen"
         },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.hammerandchisel.discord",
-            "developerName": "CloudySn0w",
-            "downloadURL": "https://github.com/jaydenjcpy/BTLoader/releases/download/v318.0/bound.ipa",
-            "iconURL": "https://github.com/jaydenjcpy/BTLoader/blob/main/assets/logo/icon.png?raw=true",
-            "localizedDescription": "Dicord with the ability to add plugins, tweaks and more!",
-            "name": "BTLoader Discord",
-            "screenshotURLs": [
-                "https://github.com/jaydenjcpy/BTLoader/releases/download/v318.0/IMG_1099.jpeg"
-            ],
-            "size": 86600000,
-            "subtitle": "A mod for Discord Mobile iOS",
-            "tintColor": "5865F2",
-            "version": "318",
-            "versionDate": "2026-03-03",
-            "versionDescription": "Updated to Dicord v318"
-        },
     "userInfo": {
     }
 
