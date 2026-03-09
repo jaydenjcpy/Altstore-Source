@@ -182,24 +182,6 @@
             "versionDate": "2026-03-03",
             "versionDescription": "Updated to Dicord v318"
         },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.hammerandchisel.discord",
-            "developerName": "CloudySn0w",
-            "downloadURL": "https://github.com/jaydenjcpy/BTLoader/releases/download/v318.0/bound.ipa",
-            "iconURL": "https://raw.githubusercontent.com/jaydenjcpy/BTLoader/refs/heads/main/assets/logo/icon.png",
-            "localizedDescription": "A mod for Discord mobile iOS to install plugins and more!",
-            "name": "BTLoader Dicord",
-            "screenshotURLs": [
-                "https://github.com/jaydenjcpy/BTLoader/releases/download/v318.0/IMG_1099.jpeg"
-            ],
-            "size": 86600000,
-            "subtitle": "BTLoader for Discord",
-            "tintColor": "5865F2",
-            "version": "318",
-            "versionDate": "2026-03-03",
-            "versionDescription": "Updated to Discord v318"
-        },
     "userInfo": {
     }
 
