@@ -110,10 +110,10 @@
         {
             "beta": false,
             "bundleIdentifier": "net.whatsapp.WhatsAppBusiness",
-            "developerName": "Ahmad Mokadam",
-            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/20261704/warb.ipa",
+            "developerName": "ahmadmokadam",
+            "downloadURL": "https://github.com/jaydenjcpy/2026src/releases/download/202603102011WARB/WARb.ipa",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/WhatsApp_Business_icon.png",
-            "localizedDescription": "WhatsApp 26.8.76 injected with Raveal, Note: App may crash on first launch, Downloading stories will not work",
+            "localizedDescription": "WhatsApp 29.9.75 injected with Raveal, Note: App may crash on first launch, Downloading stories will not work",
             "name": "WhatsApp Business+Whatsapp Raveal",
             "screenshotURLs": [
                 
@@ -124,8 +124,8 @@
             "size": 118000000,
             "subtitle": "WhatsApp Business with tweaks",
             "tintColor": "25D366",
-            "version": "26.8.76",
-            "versionDate": "2026-03-06",
+            "version": "26.9.75",
+            "versionDate": "2026-03-10",
             "versionDescription": "Fix Bugs, optimize performance and improve experience"
         },
         {
@@ -168,6 +168,14 @@
     "userInfo": {
     }
 }
+
+
+
+
+
+
+
+
 
 
 
