@@ -11,11 +11,11 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Tonwalter888",
             "subtitle": "A flexible enhancer for YouTube on iOS",
-            "version": "21.10.2",
-            "versionDate": "2026-03-06",
+            "version": "21.11.4",
+            "versionDate": "2026-03-16",
             "versionDescription": "Watch YT without interruptions and more",
-            "downloadURL": "https://github.com/jaydenjcpy/YTLitePlusEXTRA/releases/download/ytliteplusextra-ipa3/YTLitePlusEXTRA_21.10.2_v5.2b4.ipa",
-            "localizedDescription": "- Updated to YT 21.10.2 \n - Tweak is 5.2b4 \n - Playback issue fix in YTUHD settings",
+            "downloadURL": "https://github.com/jaydenjcpy/YTLitePlusEXTRA/releases/download/ytliteplusextra-ipa5/YTLitePlusEXTRA_21.11.4_v5.2b4.ipa",
+            "localizedDescription": "- Updated to YT 21.11.4 \n - Tweak is 5.2b4 \n - Playback issue fix in YTUHD settings",
             "iconURL": "https://ytliteplus.github.io/Logo.png",
             "tintColor": "e22a41",
             "size": 118800000,
@@ -168,14 +168,6 @@
     "userInfo": {
     }
 }
-
-
-
-
-
-
-
-
 
 
 
